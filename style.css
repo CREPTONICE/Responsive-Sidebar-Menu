@@ -32,7 +32,7 @@ body {
   color: var(--text-clr);
   display: grid;
   grid-template-columns: auto 1fr;
-  animation: reloadPage 3.5s ease-in-out;
+   animation: reloadPage 3.5s ease-in-out; 
 }
 
 #sidebar {
